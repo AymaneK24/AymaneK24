@@ -1,8 +1,8 @@
  👋 Hi, I’mAymane KENBOUCH @AymaneK24
- 👀 I’m interested in   Web development, CyberSecrity and Data Science
- 🌱 I’m currently learning new techs of Web development
+ 👀 I’m interested inm CyberSecrity and Data Science
+ 🌱 I’m currently learning new techs of AWS Cloud Services
  📫 How to reach me aymanekenbouch@gmail.com
- ⚡ Fun fact: what it should be about ?
+
  
 
 
