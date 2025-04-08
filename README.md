@@ -2,7 +2,7 @@
  👀 I’m interested in DevSecOps, Cloud Computing
  🌱 I’m currently learning new techs of Amazon Web Services
  📫 How to reach me : aymanekenbouch@gmail.com
- Github : @AymaneK24 | DockerHub : @AymaneKh24
+
  
 
 
