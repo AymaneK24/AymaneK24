@@ -1,6 +1,9 @@
  👋 Hi, I’m Aymane KENBOUCH 
- 👀 I’m interested in DevSecOps, Cloud Computing
- 🌱 I’m currently learning new techs of Amazon Web Services
+
+ 👀 DevSecOps, Cloud Computing is my play field 
+
+ 🌱 I’m currently learning new techs of Amazon Web Services and Infrastructure as Code
+
  📫 How to reach me : aymanekenbouch@gmail.com
 
  
