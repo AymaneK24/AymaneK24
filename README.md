@@ -1,15 +1,4 @@
- 👋 Hi, I’m Aymane KENBOUCH 
+Hi i'm KENBOUCH Aymane
+AWS Certified  Solution Architect 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/2f94a836-761c-492d-b58e-4edf8bd484fb" />
 
- 👀 DevSecOps, Cloud Computing is my play field 
-
- 🌱 I’m currently learning new techs of Amazon Web Services and Infrastructure as Code
-
- 📫 How to reach me : aymanekenbouch@gmail.com
-
- 
-
-
-<!---
-AymaneK24/AymaneK24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
